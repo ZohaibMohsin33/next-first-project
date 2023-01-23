@@ -6,3 +6,4 @@ export default function Layout({ children }) {
   }
 
   //Picture not showing down
+  //Parizad will resolve it
